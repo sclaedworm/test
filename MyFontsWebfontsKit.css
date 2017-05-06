@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3384964, 2017-05-06T17:51:18-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: AsterismClean-Regular by Great Lakes Lettering
+ * URL: http://www.myfonts.com/fonts/great-lakes-lettering/asterism-clean/regular/
+ * Copyright: Copyright &#x00A9; 2013 by Great Lakes Lettering. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3384964
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/33a684");
+
+  
+@font-face {font-family: 'AsterismClean-Regular';src: url('webfonts/33A684_0_0.eot');src: url('webfonts/33A684_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33A684_0_0.woff2') format('woff2'),url('webfonts/33A684_0_0.woff') format('woff'),url('webfonts/33A684_0_0.ttf') format('truetype');}
+ 
